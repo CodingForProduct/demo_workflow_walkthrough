@@ -1,0 +1,11 @@
+{
+  "name": "demo_workflow_walkthrough",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CodingForProduct/demo_workflow_walkthrough.git",
+  "author": "Wai-Yin Kwan <wykhuh@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
